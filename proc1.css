@@ -4,3 +4,10 @@ background:black;
 .co{
   color:000;background:black;
 }
+.container{
+  padding-right: 0px;
+  padding: 18px;
+}
+h2{
+  font-size: 9px;
+}
